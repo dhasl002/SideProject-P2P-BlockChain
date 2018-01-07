@@ -1,2 +1,12 @@
 # SideProject-P2PFileShare
-A P2P network to send text files to peers. This is used to update a universal ledger for a Blockchain cryptocurrency project.
+A P2P network that maintains a distributed ledger. This ledger keeps track of an experimental cryptocurrency marking any currency mined or traded.
+
+## How to use
+Download files, cd to directory and use the following command
+`node peer.js`
+
+## Dependencies
+*Node.JS
+*fs
+*readline
+*prompt
