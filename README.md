@@ -1,4 +1,4 @@
-# SideProject-P2PFileShare
+# SideProject-P2P-BlockChain
 A P2P network that maintains a distributed ledger. This ledger keeps track of an experimental cryptocurrency marking any currency mined or traded.
 
 ## How to use
