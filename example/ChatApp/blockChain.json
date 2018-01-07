@@ -1,7 +1,0 @@
-var blockChain = [{
-	"index" = -1;
-    "time" = "";
-    "data" = "";
-    "currentHash" = "";
-    "previousHash" = "";
-}];
