@@ -6,7 +6,7 @@ Download files, cd to directory and use the following command
 `node peer.js`
 
 ## Dependencies
-*Node.JS
+ Markup :*Node.JS
 *fs
 *readline
 *prompt
